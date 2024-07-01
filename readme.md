@@ -1,7 +1,5 @@
 # Keylogger 
 
-![image](https://github.com/ugurcomptech/Py-Keylogger/assets/133202238/024a9a05-a4a6-4651-891f-62fdb642f90d)
-
 
 Bu Python script'i, bilgisayarınızdaki tuş vuruşlarını kaydeden ve belirli aralıklarla bu kayıtları belirtilen bir e-posta adresine gönderen bir yazılımdır.
 
